@@ -12,7 +12,7 @@
     "schema": "migrations/schema.prisma"
   },
   "dependencies": {
-    "@prisma/client": "^5.12.1",
+    "@prisma/client": "^5.15.0",
     "@vercel/postgres": "^0.8.0",
     "next": "14.2.2",
     "prisma": "^5.12.1",
